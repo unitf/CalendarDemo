@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarView">
+        <attr name="preColor" format="dimension"/>
+        <attr name="nowColor" format="dimension"/>
+        <attr name="nextColor" format="dimension"/>
+        <attr name="todaySelectDrawable" format="dimension"/>
+        <attr name="todayUnSelectDrawable" format="dimension"/>
+    </declare-styleable>
+</resources>
